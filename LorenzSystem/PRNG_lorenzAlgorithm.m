@@ -12,8 +12,8 @@
 % @email s256671@studenti.polito.it
 % @date 13/05/2021
 % -----------------------------------------------------------------------------
-%clear all
-%close all
+clear all
+close all
 clc
 
 %% DEFINING DATA STRUCTURE
