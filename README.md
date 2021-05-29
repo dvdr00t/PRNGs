@@ -22,7 +22,7 @@ The folder contains:
   - *dynamicBehavior.m*: Plot of the dynamics of the Logistic Map.
   - *lyapunovExponent.m*: MatLab implementation of the computation of the Lyapunov exponent.
   - **PRNG_logisticAlgorithm**: contains the C algorithm used to implement the PRNG:
-    . *myrandom.h*: library file that contains all the utilities for the algorithm.
-    . *myrandom.c*: implementation of the utilities.
-    . *PRNG_logistic.c*: C implementation of the algorithm.
-    . *makefile*: makefile
+    * *myrandom.h*: library file that contains all the utilities for the algorithm.
+    * *myrandom.c*: implementation of the utilities.
+    * *PRNG_logistic.c*: C implementation of the algorithm.
+    * *makefile*: makefile
