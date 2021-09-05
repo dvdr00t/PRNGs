@@ -1,6 +1,6 @@
 #include "myrandom.h"
 
-#define FILENAME "/Users/davidearcolini/Desktop/PoliTo/Reti e sistemi complessi - fenomeni fisici ed interazioni sociali/Tesina/MatLab/Logistic Map/output_sequence.txt"
+#define FILENAME "./output_sequence.txt"
 #define DIGITS 16
 #define SHUFFLE_LIMIT 4
 
