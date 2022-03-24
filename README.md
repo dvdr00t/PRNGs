@@ -1,4 +1,7 @@
 # Pseudo-Random Number Generator
+
+![Frontpage](Frontpage.png)
+
 ## Logistic Chaotic Map and Generalized Lorenz System
 
 #### CANDIDATE:   Davide Arcolini
